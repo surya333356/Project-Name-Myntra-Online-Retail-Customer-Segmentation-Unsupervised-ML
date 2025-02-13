@@ -96,8 +96,11 @@ Interpretation: Customers in this cluster can be seen as 'Potential Loyalists' o
 # Overall Strategy:
 
 Cluster 1 ('At-Risk/Lapsed'): Focus on re-engagement strategies. Understand their needs and reasons for not returning. Offer incentives or feedback surveys to encourage them to revisit and make purchases.
+
 Cluster 0 ('Champions/Loyal'): Prioritize maintaining their high level of engagement. Offer exclusive deals, loyalty programs, and early access to new products. They can also be engaged in referral programs.
+
 Cluster 2 ('Potential Loyalists/Promising'): Encourage them to visit and buy more often. Personalized communication, recommending products based on past purchases, and loyalty rewards can be effective.
+
 Thus, from our comparison table we can conclude that KMeans clustering on Recency, Frequency and Monetary data gives us the best result with the optimal number of clusters as 3. We can use this model to cluster our data in 3 segments and develop better marketing strategies.
 
 ## Hurrah! You have successfully completed your Machine Learning Capstone Project !!!

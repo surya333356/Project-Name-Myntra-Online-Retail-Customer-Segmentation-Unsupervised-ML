@@ -5,6 +5,9 @@
 # Project Summary -
 Myntra is a leading Indian fashion e-commerce company known for its wide range of clothing, accessories, and lifestyle products. While Myntra is recognized primarily for fashion, this dataset relates to the company's online retail operations for Myntra Gifts Ltd., a UK-based division specializing in unique all-occasion giftware. This dataset spans transactions from December 1, 2009, to December 9, 2011, and includes detailed records of sales made through Myntra Gifts Ltd.’s non-store online platform. The dataset provides a thorough snapshot of the company's international online retail activities during this period.
 
+# Objective-
+To segment Myntra's online retail customers using unsupervised machine learning, enabling personalized marketing strategies and improving customer retention by identifying distinct purchasing behaviors and preferences.
+
 # Problem Statement
 1. Which products are the most and least sold ones?
 
